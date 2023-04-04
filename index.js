@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", () => {
   getFilm("http://localhost:3000/films/1");
   getFilms("http://localhost:3000/films");
 
-  const buyButton = document.querySelector("#Ticket");
+  const buyButton = document.querySelector("#buy-ticket");
   buyButton.addEventListener("click", buyTicket);
 });
 
