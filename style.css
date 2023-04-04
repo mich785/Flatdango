@@ -1,0 +1,74 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    font-family: "Open Sans", sans-serif;
+    font-size: 14px;
+    color: #404040;
+  }
+  
+  header {
+    float: left;
+    width: 225px;
+    height: auto;
+    border-right: solid #404040 1px;
+    border-bottom: solid #404040 1px;
+    border-radius: 0 0 6px 0;
+    padding: 10px;
+    margin-right: 10px;
+  }
+  
+  h1 {
+    font-family: "Great Vibes";
+    font-size: 52px;
+    color: #343fd5;
+    margin: 10px 0;
+  }
+  ul {
+    padding: 0;
+  }
+  
+  li {
+    list-style: none;
+    font-style: italic;
+    color:purple;
+  }
+  
+  nav ul {
+    margin-left: 15px;
+  }
+  
+  nav ul li {
+    padding: 5px;
+    cursor: pointer;
+  }
+  
+  nav ul li:hover {
+    background-color: #f1ee58;
+    color: #fff;
+  }
+  
+  main {
+    float: left;
+    margin-left: 50px;
+    width: 600px;
+  }
+  .film-details h2 {
+    font-size: 50px;
+    text-align: center;
+    font-style: oblique;
+  }
+  
+  .film-details h3 {
+    font-size: 24px;
+  }
+  
+  .film-details img {
+    display: block;
+    height: 200px;
+    margin: 0 auto 25px auto;
+  } 
+  #details{
+    font-style: italic;
+    font-size: 25px;
+  }
+  
