@@ -10,4 +10,4 @@ The renderFilm1() function takes the data of a single movie and updates the corr
 
 The buyTicket() function is triggered when a user clicks on the "Buy Ticket" button. It checks if there are available tickets for the movie and decrements the number of tickets if there are. If there are no tickets left, it displays an alert message to the user indicating that there are no tickets left.
 
-Overall, this code provides a basic foundation for a movie ticket booking application, with features such as displaying movie information, rendering a list of movies, and buying tickets. However, it does not include any persistence or user authentication mechanisms, so it should not be used in production without additional work.
+Overall, this code provides a basic foundation for a movie ticket booking application, with features such as displaying movie information, rendering a list of movies, and buying tickets. However, it does not include any persistence or user authentication mechanisms.
